@@ -40,7 +40,7 @@ Spotify data set is provided and consist of features provided for the tracks. A 
 Team Members Name - <br> </b>
 - Sujith
 - Mohammad Avesh Husain
-- Kouame Agoule Johan
+- Kouame Agouale Johan
 - Sarthak Tyagi
 - Ankit Kumar
 
